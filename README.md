@@ -3,6 +3,9 @@
 
 The United Nations Egypt in partnership with the Ministry of Social Solidarity, RiseUp, and PepsiCo are organizing a three-day Hackathon where 21 teams of youth aged between 18-29 will compete to offer innovative digital solutions designed to tackle two of Egypt’s national development priorities and Sustainable Development Goals, Zero Hunger and Gender Equality.
 
+## Use cases I worked on
+
+
 ## project include.
 
 - Mobile app for farmer developed using React native.
@@ -15,7 +18,6 @@ Replace Wordpress web application with Angular app to connect with REST Server g
 ![REST SERVER](https://github.com/mmjazzar/auction/blob/master/screencapture-159-122-179-126-31099-explorer-2019-04-20-06_03_49.png?raw=true)
 
 
-## Use cases I worked on
 
 
 ## For Farmers.
@@ -25,7 +27,7 @@ Replace Wordpress web application with Angular app to connect with REST Server g
 Open App
 Welcome message from splash screen
 
-![REST SERVER](https://github.com/mmjazzar/auction/blob/master/Login.png)
+![REST SERVER](https://github.com/mmjazzar/auction/blob/master/Login.png =300x100)
 
 
 ### Home page Screen
@@ -37,7 +39,7 @@ Check announcement.
 
 Check previous messages.
 
-![REST SERVER](https://github.com/mmjazzar/auction/blob/master/Messages.png)
+![REST SERVER](https://github.com/mmjazzar/auction/blob/master/Messages.png =300x100)
 
 ## For Investors and associaton (UX)
 
