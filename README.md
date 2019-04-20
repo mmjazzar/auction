@@ -39,10 +39,14 @@ Welcome message from splash screen
 
 Capture picture and send Voice notes.
 Check announcement.
+<img src="https://github.com/mmjazzar/auction/blob/master/Onboarding.png" alt="drawing" height="300"/>
+
 
 ### Messages
 
 Check previous messages.
+
+
 <img src="https://github.com/mmjazzar/auction/blob/master/Messages.png" alt="drawing" height="300"/>
 
 ## For Investors and associaton (UX)
