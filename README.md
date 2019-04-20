@@ -4,6 +4,12 @@
 The United Nations Egypt in partnership with the Ministry of Social Solidarity, RiseUp, and PepsiCo are organizing a three-day Hackathon where 21 teams of youth aged between 18-29 will compete to offer innovative digital solutions designed to tackle two of Egypt’s national development priorities and Sustainable Development Goals, Zero Hunger and Gender Equality.
 
 ## Use cases I worked on
+linking association together through blockchain. Each association can find a need in the acution page, and they can bid. 
+
+All data are saved and encrypted using Blockchain.
+
+
+https://reproducible-inject.000webhostapp.com/wp-admin/
 
 
 ## project include.
