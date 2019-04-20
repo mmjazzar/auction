@@ -27,7 +27,7 @@ Replace Wordpress web application with Angular app to connect with REST Server g
 Open App
 Welcome message from splash screen
 
-![REST SERVER](https://github.com/mmjazzar/auction/blob/master/Login.png =300x100)
+![REST SERVER](https://github.com/mmjazzar/auction/blob/master/Login.png) 
 
 
 ### Home page Screen
@@ -38,8 +38,7 @@ Check announcement.
 ### Messages
 
 Check previous messages.
-
-![REST SERVER](https://github.com/mmjazzar/auction/blob/master/Messages.png =300x100)
+<img src="https://github.com/mmjazzar/auction/blob/master/Messages.png" alt="drawing" height="300"/>
 
 ## For Investors and associaton (UX)
 
