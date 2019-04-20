@@ -25,6 +25,9 @@ Replace Wordpress web application with Angular app to connect with REST Server g
 Open App
 Welcome message from splash screen
 
+![REST SERVER](https://github.com/mmjazzar/auction/blob/master/Login.png)
+
+
 ### Home page Screen
 
 Capture picture and send Voice notes.
@@ -33,6 +36,8 @@ Check announcement.
 ### Messages
 
 Check previous messages.
+
+![REST SERVER](https://github.com/mmjazzar/auction/blob/master/Messages.png)
 
 ## For Investors and associaton (UX)
 
