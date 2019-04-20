@@ -27,7 +27,7 @@ Replace Wordpress web application with Angular app to connect with REST Server g
 Open App
 Welcome message from splash screen
 
-![REST SERVER](https://github.com/mmjazzar/auction/blob/master/Login.png) 
+<img src="https://github.com/mmjazzar/auction/blob/master/Login.png" alt="drawing" height="300"/>
 
 
 ### Home page Screen
