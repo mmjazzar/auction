@@ -9,7 +9,7 @@ linking association together through blockchain. Each association can find a nee
 All data are saved and encrypted using Blockchain.
 
 
-https://reproducible-inject.000webhostapp.com/wp-admin/
+https://reproducible-inject.000webhostapp.com
 
 
 ## project include.
