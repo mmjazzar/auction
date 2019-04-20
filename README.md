@@ -22,3 +22,20 @@ Check announcement.
 ### Messages
 
 Check previous messages.
+
+## For Investors and associaton.
+
+### Registration page
+
+Open App
+Welcome message from splash screen
+Find deals
+
+Bid item screen
+
+necessary details about item (full detailed name of item and item description)
+real-time information about auction (current bid and bidding time duration)
+call-to-action to place final bid.
+
+
+
